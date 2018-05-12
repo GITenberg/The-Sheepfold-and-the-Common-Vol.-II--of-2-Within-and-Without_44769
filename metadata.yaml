@@ -1,0 +1,26 @@
+_repo: The-Sheepfold-and-the-Common-Vol.-II--of-2-Within-and-Without_44769
+_version: 0.1.0
+covers:
+- cover_type: archival
+  image_path: 44769-h/images/coverpage.jpg
+creator:
+  author:
+    agent_name: East, Timothy
+    alias: East, T. (Timothy)
+    gutenberg_agent_id: '42773'
+    url: http://www.gutenberg.org/2009/agents/42773
+description: ''
+gutenberg_issued: '2014-01-27'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '44769'
+language: en
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcsh 'Christian life'
+- !lcc 'BV'
+- !lcsh 'Christian life -- Pictorial works'
+title: The Sheepfold and the Common; Or, Within and Without. Vol. 2 (of 2)
+url: http://www.gutenberg.org/ebooks/44769
