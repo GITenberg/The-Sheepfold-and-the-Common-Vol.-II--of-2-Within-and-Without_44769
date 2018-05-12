@@ -10,6 +10,8 @@ creator:
     gutenberg_agent_id: '42773'
     url: http://www.gutenberg.org/2009/agents/42773
 description: ''
+edition_identifiers:
+  edition_id: http://www.gutenberg.org/ebooks/44769#The-Sheepfold-and-the-Common-Vol.-II--of-2-Within-and-Without
 gutenberg_issued: '2014-01-27'
 gutenberg_type: Text
 identifiers:
